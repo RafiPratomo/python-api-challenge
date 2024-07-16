@@ -7,11 +7,6 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -19,4 +14,4 @@ The **Python API Challenge** is a project focused on using various APIs to gathe
 
 ## Installation
 
-To run this project, you need to have Python 3.8 or later installed on your system. Follow the steps below to set up the project:
+To run this project, you need to have Python 3.8 or later installed on your system.
